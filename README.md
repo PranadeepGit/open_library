@@ -1,15 +1,3 @@
-# reading_club_open_library
-
-The above project is flutter project.
-In this flutter project we can read articles/columns about science, business & Entertainment.
-
-### **This application includes:**
-1) Authentication page.
-2) Three slideable section viz. Science, Business & Entertainement.
-4) Searching and shorting features.
-3) Bookmark option and page.
-4) Detailed page.
-5) Side & information panel.
 
 # ScreenShots
 
@@ -19,11 +7,3 @@ In this flutter project we can read articles/columns about science, business & E
 ![Screenshot 2022-07-29 005329](https://user-images.githubusercontent.com/91900783/181628140-e8e60054-bbfe-4845-9b83-e198c3b245af.png)
 ![Screenshot 2022-07-29 005711](https://user-images.githubusercontent.com/91900783/181628155-645c1cc0-1cda-4dd4-b671-8bbc0fbe7266.png)
 ![Screenshot 2022-07-29 005759](https://user-images.githubusercontent.com/91900783/181628158-2dfad527-69dc-404e-bbd4-60624b50da03.png)
-
-
-# Screen Recording of Application
-https://user-images.githubusercontent.com/91900783/181625288-b8750ef7-1a43-4626-9045-bb0db3d69c94.mp4
-
-# [.apk] file link
-
-https://drive.google.com/file/d/1ZTIsMReGteN_L2iwiYoOKbcIW9vloy5M/view?usp=sharing
